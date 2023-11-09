@@ -108,6 +108,11 @@ footer{
   color: white;
   font-size: larger;
 }
+footer img{
+    display:inline-block;
+    width:100px;
+    height:60px;
+}
 p{
   margin: 0%;
   padding: 7.5px;
